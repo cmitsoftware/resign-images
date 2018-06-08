@@ -1,0 +1,6 @@
+server:
+  port: 8083
+  servlet:
+    contextPath: /resign/images
+logging:
+  file: "E:\\temp\\resign\\resign-images.log"
